@@ -17,11 +17,13 @@ ip2region Swoole版本,性能惊人
 * IP库数据预加载,长住内存,提高性能
 * 不停服务,平滑更新IP数据
 
+##启动
+
+    php server.php
+
 ##平滑重启
 
     http://127.0.0.1:7070/?ac=reload
-
-
 
 ##性能测试
 
