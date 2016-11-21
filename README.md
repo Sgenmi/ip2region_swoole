@@ -29,4 +29,4 @@ ip2region Swoole版本,性能惊人
 ab -c 100 -n 100000 http://127.0.0.1:7070/?ip=125.118.66.241
 ```
 
-![image](xxxx.jpg)
+![image](https://github.com/Sgenmi/ip2region_swoole/blob/develop/ab-server.jpg)
